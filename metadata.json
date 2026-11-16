@@ -1,0 +1,6 @@
+{
+  "name": "Tactile Oracle — Adaptive RPS Arcade",
+  "description": "A retro-modern arcade Rock-Paper-Scissors duel powered by real-time local webcam hand tracking and an adaptive AI opponent that learns your patterns.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
